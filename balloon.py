@@ -2,8 +2,8 @@
 #s = "BAOOLLNNOLOLGBAX" # Resultado 2
 #s = "QAWABAWONL" # Resultado 0
 #s = "ONLABLABLOON" # Resultado 1
-#s = "BALLOON" # 0
-s = "BALLOONBALLOON" # 0
+s = "BALLOON" # 0
+#s = "BALLOONBALLOON" # 0
 
 word_list = ["B", "A", "L", "L", "O", "O", "N"]
 def solucion(s):
